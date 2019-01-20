@@ -4,9 +4,9 @@ import { WelcomeCard } from './Elements'
 const Welcome = () => (
   <WelcomeCard>
     <div>
-      <h1>Hello stranger!</h1>
-      <h2>So you think you bored!</h2>
-      <p>Our chatbot can tell you a cool thing to do. Just give it a try!</p>
+      <h1>Xin chào!</h1>
+      <h2>Bạn nghĩ bạn đang chán và không biết làm gì</h2>
+      <p>Chatbot này sẽ nói cho bạn điều hay ho để làm , hãy thử xem!</p>
     </div>
     <div>
       <p>
@@ -26,6 +26,16 @@ const Welcome = () => (
         >
           Sara Vieira
         </a>{' '}
+      </p>
+      <p>
+        Vietnamese Version by{' '}
+        <a
+          href="https://www.facebook.com/hienlech7999"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Hiển Lếch
+        </a>
       </p>
       <p>
         Code on{' '}

@@ -10,417 +10,420 @@ export default [
       'https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a'
   },
   {
-    activity: 'Clean up your PC or Phone'
+    activity: 'Dọn dẹp file rác trên máy tính hoặc điện thoại'
   },
   {
-    activity: 'Clean up your inbox'
+    activity: 'Dọn dẹp tin nhắn , email rác'
   },
   {
-    activity: 'Learn Express.js',
+    activity: 'Học Express.js',
     link: 'https://expressjs.com/'
   },
   {
-    activity: 'Learn to greet someone in a new language'
+    activity: 'Học cách chào bằng một ngôn ngữ mới'
   },
   {
-    activity: 'Learn Vue'
+    activity: 'Học Angular'
   },
   {
-    activity: 'Learn React'
+    activity: 'Học VueJS'
   },
   {
-    activity: 'Learn how to play a new sport'
+    activity: 'Học ReactJS'
   },
   {
-    activity: "Text a friend you haven't talked to in a long time"
+    activity: 'Học cách chơi một môn thể thao mới'
   },
   {
-    activity: 'Learn a new programming language'
+    activity: 'Nhắn tin với một người bạn lâu lắm rồi không nói chuyện'
   },
   {
-    activity: 'Learn how to fold a paper crane'
+    activity: 'Học một ngôn ngữ lập trình mới'
   },
   {
-    activity: 'Find a DIY to do'
+    activity: 'Học cách gấp hạc giấy'
   },
   {
-    activity: 'Learn about the Golden Ratio',
+    activity: 'Làm một đồ handmade'
+  },
+  {
+    activity: 'Tìm hiểu về tỉ lệ vàng',
     link: 'https://en.wikipedia.org/wiki/Golden_ratio'
   },
   {
-    activity: 'Volunteer at a local animal shelter'
+    activity: 'Làm tình nguyện'
   },
   {
-    activity: 'Play a game of Monopoly'
+    activity: 'Chơi game cờ tỉ phú'
   },
   {
-    activity: 'Bake pastries for you and your neighbor'
+    activity: 'Nướng bánh ngọt ăn và mang cho hàng xóm'
   },
   {
-    activity: "Bake something you've never tried before"
+    activity: 'Làm những điều mình chưa làm bao giờ'
   },
   {
-    activity: 'Take your dog on a walk'
+    activity: 'Dắt chó đi dạo'
   },
   {
-    activity: 'Meditate for five minutes'
+    activity: 'Suy nghĩ trong 5 phút'
   },
   {
-    activity: "Start a book you've never gotten around to reading"
+    activity: 'Đọc quyển sách mà chưa đọc bao giờ'
   },
   {
-    activity: 'Take a caffeine nap'
+    activity: 'Uống cà phê rồi ngủ'
   },
   {
-    activity: 'Take a bubble bath'
+    activity: 'Tắm bong bóng'
   },
   {
-    activity: 'Go to a nail salon'
+    activity: 'Đi làm móng'
   },
   {
-    activity: 'Listen to your favorite album'
+    activity: 'Nghe album nhạc yêu thích'
   },
   {
-    activity: 'Learn to play a new instrument'
+    activity: 'Học chơi một loại nhạc cụ mới'
   },
   {
-    activity: 'Teach your dog a new trick'
+    activity: 'Dạy con chó một trò mới '
   },
   {
-    activity: 'Make a to-do list for your week'
+    activity: 'Làm một danh sách những việc cần làm trong 1 tuần'
   },
   {
-    activity: 'Go swimming with a friend'
+    activity: 'Đi bơi với bạn bè'
   },
   {
-    activity: 'Go on a long drive'
+    activity: 'Lái xe một chặng đường dài'
   },
   {
-    activity: "Watch a movie you'd never usually watch"
+    activity: 'Xem một bộ phim chưa từng xem'
   },
   {
-    activity: 'Go see a movie in theaters with a few friends'
+    activity: 'Đi xem phim ở rạp với bạn bè'
   },
   {
-    activity: 'Draw and color a Mandala'
+    activity: 'Vẽ và tô màu một hình Mandala (Không biết mandala là gì thì google)'
   },
   {
-    activity: 'Rearrange and organize your room'
+    activity: 'Sắp xếp lại phòng của bạn'
   },
   {
-    activity: 'Pot some plants and put them around your house'
+    activity: 'Trồng một cái cây quanh nhà'
   },
   {
-    activity: "Plan a vacation you've always wanted to take"
+    activity: 'Lên kế hoạch một kì nghỉ mà bạn đã từng rất muốn đi'
   },
   {
-    activity: 'Take your cat on a walk'
+    activity: 'Dắt mèo đi dạo'
   },
   {
-    activity: 'Have a football scrimmage with some friends'
+    activity: 'Chém gió về bóng đá với bạn bè'
   },
   {
-    activity: 'Fill out a basketball bracket'
+    activity: 'Dự đoán bóng rổ '
   },
   {
-    activity: 'Play a game of tennis with a friend'
+    activity: 'Chơi một trận tennis với bạn bè'
   },
   {
-    activity: 'Catch up with a friend over a lunch date'
+    activity: 'Hẹn ăn trưa với một người bạn'
   },
   {
-    activity: 'Learn how to iceskate or rollerskate'
+    activity: 'Học trượt băng hoặc trượt patin'
   },
   {
-    activity: 'Go to a concert with local artists with some friends'
+    activity: 'Đến một buổi concert của một nghệ sĩ địa phương với bạn'
   },
   {
-    activity: 'Explore the nightlife of your city'
+    activity: 'Khám phá cuộc sống về đêm của thành phố của bạn'
   },
   {
-    activity: "Fix something that's broken in your house"
+    activity: 'Sửa vài thứ bị hỏng trong nhà'
   },
   {
-    activity: 'Wash your car'
+    activity: 'Rửa xe'
   },
   {
-    activity: 'Hold a yard sale'
+    activity: 'Tổ chức một buổi bán đồ cũ'
   },
   {
-    activity: 'Donate blood at a local blood center',
+    activity: 'Đi hiến máu',
     link: 'https://www.redcross.org/give-blood'
   },
   {
-    activity: 'Volunteer and help out at a senior center'
+    activity: 'Đi tình nguyện ở viện dưỡng lão'
   },
   {
-    activity: 'Shop at support your local farmers market'
+    activity: 'Mua nông sản và giúp đỡ nông dân địa phương'
   },
   {
-    activity: 'Learn a new recipe'
+    activity: 'Học một công thức nấu ăn mới'
   },
   {
-    activity: 'Create a cookbook with your favorite recipes'
+    activity: 'Làm một quyển sách nấu ăn với các công thức nấu ăn của bạn'
   },
   {
-    activity: 'Volunteer at your local food shelter'
+    activity: 'Làm tình nguyện ở trung tâm tình thương'
   },
   {
-    activity: 'Create or update your resume'
+    activity: 'Tạo hoặc cập nhật hồ sơ của bạn'
   },
   {
-    activity: 'Paint the first thing you see'
+    activity: 'Vẽ thứ đầu tiên bạn nhìn thấy'
   },
   {
-    activity: "Start a blog for something you're passionate about"
+    activity: 'Tạo một blog về một thứ bạn đam mê'
   },
   {
-    activity: 'Start a garden'
+    activity: 'Làm vườn'
   },
   {
-    activity: "Clean out your closet and donate the clothes you've outgrown"
+    activity: 'Chọn lọc quần áo cũ mang đi ủng hộ'
   },
   {
-    activity: 'Catch up on world news'
+    activity: 'Nắm bắt tình hình thế giới'
   },
   {
-    activity: 'Create a personal website'
+    activity: 'Làm một website cá nhân'
   },
   {
-    activity: 'Listen to a new podcast'
+    activity: 'Nghe một kênh podcast mới'
   },
   {
-    activity: 'Have a paper airplane contest with some friends'
+    activity: 'Thi ném máy bay giấy với bạn'
   },
   {
-    activity: 'Learn calligraphy'
+    activity: 'Học viết thư pháp'
   },
   {
-    activity: 'Start a collection'
+    activity: 'Sưu tầm một thứ gì đó'
   },
   {
-    activity: 'Go to a local thrift shop'
+    activity: 'Đến cửa hàng tiết kiệm'
   },
   {
-    activity: 'Make a couch fort'
+    activity: 'Làm một cái pháo đài bằng chăn'
   },
   {
-    activity: 'Pick up litter around your favorite park'
+    activity: 'Nhặt rác xung quanh công viên bạn yêu thích'
   },
   {
-    activity: 'Buy a new house decoration'
+    activity: 'Mua một đồ trang trí nhà mới'
   },
   {
-    activity: 'Write a thank you letter to an influential person in your life'
+    activity: 'Viết một lá thư cảm ơn tới người có ảnh hưởng lớn tới cuộc đời bạn'
   },
   {
-    activity: 'Clean out your car'
+    activity: 'Dọn dẹp xe'
   },
   {
-    activity: 'Write a short story'
+    activity: 'Viết truyện ngắn'
   },
   {
-    activity: 'Do something nice for someone you care about'
+    activity: 'Làm một điều tốt đẹp cho người bạn quan tâm'
   },
   {
-    activity: 'Think of a new business idea'
+    activity: 'Nghĩ về một ý tưởng kinh doanh'
   },
   {
-    activity: 'Clean out your garage'
+    activity: 'Dọn dẹp cỗ để xe'
   },
   {
-    activity: 'Learn to sew on a button'
+    activity: 'Học cách khâu cúc áo'
   },
   {
-    activity: 'Learn how to french braid hair'
+    activity: 'Học cách tết tóc kiểu Pháp'
   },
   {
-    activity: 'Learn how to whistle with your fingers'
+    activity: 'Học cách huýt sáo bằng ngón tay'
   },
   {
-    activity: 'Learn to write with your nondominant hand'
+    activity: 'Học cách viết bằng bàn tay không thuận'
   },
   {
-    activity: 'Make bread from scratch'
+    activity: 'Làm bánh mì từ đầu đến cuối'
   },
   {
-    activity: 'Make a budget'
+    activity: 'Lập ngân sách'
   },
   {
-    activity: 'Make a simple musical instrument'
+    activity: 'Làm một nhạc cụ đơn giản'
   },
   {
-    activity: 'Go to the gym'
+    activity: 'Đến phòng tập gym'
   },
   {
-    activity: "Try a food you don't like"
+    activity: 'Thử một món ăn bạn không thích'
   },
   {
-    activity: 'Conquer one of your fears'
+    activity: 'Chinh phục một nỗi sợ hãi của bạn'
   },
   {
-    activity: 'Go to a concert with some friends'
+    activity: 'Đến một buổi hòa nhạc với bạn bè'
   },
   {
-    activity: 'Go to the library and find an interesting book'
+    activity: 'Đến thư viện và tìm một cuốn sách thú vị'
   },
   {
-    activity: 'Go to an escape room'
+    activity: 'Đến phòng tử thần (escape room)'
   },
   {
-    activity: 'Go to a karaoke bar with some friends'
+    activity: 'Đến quán karaoke với bạn'
   },
   {
-    activity: 'Repaint a room in your house'
+    activity: 'Sơn lại một căn phòng trong nhà bạn'
   },
   {
-    activity: 'Pull a harmless prank on one of your friends'
+    activity: 'Troll một người bạn'
   },
   {
-    activity: 'Take a spontaneous road trip with some friends'
+    activity: 'Đi phượt với bạn bè'
   },
   {
-    activity: 'Go stargazing'
+    activity: 'Ngắm sao'
   },
   {
-    activity: 'Invite some friends over for a game night'
+    activity: 'Rủ một đứa bạn chơi game thâu đêm'
   },
   {
-    activity: 'Make homemade ice cream'
+    activity: 'Làm kem tại nhà'
   },
   {
-    activity: 'Start a daily journal'
+    activity: 'Viết nhật kí hàng ngày'
   },
   {
-    activity: 'Go to a music festival with some friends'
+    activity: 'Đến một lễ hội âm nhạc với bạn'
   },
   {
-    activity: 'Make a bucket list'
+    activity: 'Làm một danh sách những gì muốn thực hiện'
   },
   {
-    activity: 'Binge watch a trending series'
+    activity: 'Xem một Series phim đang hot'
   },
   {
-    activity: 'Learn how to make a website'
+    activity: 'Học cách tạo một website'
   },
   {
-    activity: 'Create and follow a savings plan'
+    activity: 'Tạo và làm theo kế hoạch tiết kiệm'
   },
   {
-    activity: 'Watch a classic movie'
+    activity: 'Xem một bộ phim kinh điển'
   },
   {
-    activity: 'Plan a trip to another country'
+    activity: 'Lên kế hoạch cho một chuyến đi đến nước khác'
   },
   {
-    activity: 'Learn how the internet works'
+    activity: 'Tìm hiểu internet hoạt động như thế nào'
   },
   {
-    activity: 'Take a hike at a local park'
+    activity: 'Đi lang thang trong công viên'
   },
   {
-    activity: 'Make tie dye shirts'
+    activity: 'Làm áo sơ mi nhuộm hình'
   },
   {
-    activity: 'Make a scrapbook with pictures of your favorite memories'
+    activity: 'Là một sổ lưu niệm với hình ảnh của những kỷ niệm yêu thích'
   },
   {
-    activity: 'Have a picnic with some friends'
+    activity: 'Đi dã ngoại với bạn bè'
   },
   {
-    activity: 'Have a bonfire with your close friends'
+    activity: 'Làm một chuyến lửa trại với bạn thân'
   },
   {
-    activity: 'Memorize the fifty states and their capitals'
+    activity: 'Ghi nhớ năm mươi tiểu bang và thủ đô của nó'
   },
   {
-    activity: 'Take a class of something that interests you'
+    activity: 'Tham gia một lớp học về một cái gì đó mà bạn quan tâm'
   },
   {
-    activity: "Resolve a problem you've been putting off"
+    activity: 'Giải quyết vấn đề bạn đang đặt ra'
   },
   {
-    activity: 'Make a new friend'
+    activity: 'Kết bạn mới'
   },
-  { activity: 'Take a nap' },
-  { activity: 'Learn a new language' },
-  { activity: 'Go to the gym' },
-  { activity: 'Brush your teeth' },
-  { activity: 'Drink some water' },
-  { activity: 'Make a tea' },
-  { activity: 'Fork this app and learn something in the process' },
-  { activity: 'Go for a bike ride' },
-  { activity: 'Build a spaceship' },
-  { activity: 'Draw a horse' },
-  { activity: 'People watch' },
-  { activity: 'Go day - drinking' },
-  { activity: 'Play chess' },
-  { activity: 'Start a random game of Tag with a stranger' },
-  { activity: 'Play 2048 mobile game' },
-  { activity: 'Make a list of things to do and then take a nap' },
-  { activity: 'Learn to skateboard' },
-  { activity: 'Look through the GitHub repo 👀' },
-  { activity: 'Go for a walk ' },
-  { activity: 'Netflix and chill' },
+  { activity: 'Ngủ trưa' },
+  { activity: 'Học một ngôn ngữ mới' },
+  { activity: 'Đến phòng tập gym' },
+  { activity: 'Đánh răng' },
+  { activity: 'Uống một ít nước' },
+  { activity: 'Pha trà' },
+  { activity: 'Tìm hiểu những gì đang diễn ra trong cái app này' },
+  { activity: 'Đi xe đạp' },
+  { activity: 'Làm một cái tàu không gian' },
+  { activity: 'Vẽ một con ngựa' },
+  { activity: 'Quan sát mọ người' },
+  { activity: 'Uống rượu cả ngày' },
+  { activity: 'Chơi cờ' },
+  { activity: 'Chơi game thẻ bài ngẫu nhiên với người lạ' },
+  { activity: 'Chơi game 2048' },
+  { activity: 'Làm một danh sách việc cần làm rồi ngủ trưa' },
+  { activity: 'Học trượt ván' },
+  { activity: 'Xem qua các GitHub repo 👀' },
+  { activity: 'Đi bộ' },
+  { activity: 'Vào Netflix và thư giãn' },
   {
-    activity: 'Give bullet journaling a try'
+    activity: 'Thử viết nhật ký'
   },
   {
-    activity: 'Go for a run!'
+    activity: 'Chạy một quãng đường'
   },
-  { activity: 'Go do that dance.' },
-  { activity: 'Take a shit' },
+  { activity: 'Nhảy múa' },
+  { activity: 'Đi ỉ*' },
   {
     activity:
-      'Put down your phone and hang out with your closest person near you.'
+      'Đặt điện thoại xuống và đi chơi với người gần bạn nhất'
   },
-  { activity: 'Clip your toe nails' },
-  { activity: 'Walk for 30 mins' },
-  { activity: 'Meditate for 10 mins' },
-  { activity: 'Call your mother' },
-  { activity: 'Drink whiskey!' },
-  { activity: 'Take an online course' },
-  { activity: 'Pick your nose' },
-  { activity: 'Dance with yourself!' },
-  { activity: 'Learn React' },
-  { activity: 'Play an Escape Room' },
-  { activity: 'Go skating' },
-  { activity: 'Go for a walk in Chinatown' },
-  { activity: 'Take A Shower' },
-  { activity: 'Meditate' },
-  { activity: 'Learn About Islam' },
-  { activity: 'Learn Magic Tricks' },
-  { activity: 'Drink Mezcal' },
-  { activity: 'Brew your own kombucha' },
-  { activity: 'Invite a stranger that you see often out for a coffee' },
-  { activity: 'Call Mom' },
-  { activity: 'Re-organize your library' },
-  { activity: 'Clean out the refrigerator' },
-  { activity: 'Clean up your wardrobe' },
+  { activity: 'Cắt móng chân' },
+  { activity: 'Đi bộ 30 phút' },
+  { activity: 'Suy  nghĩ trong vòng 10 phút' },
+  { activity: 'Gọi cho mẹ bạn' },
+  { activity: 'Uống Whisky' },
+  { activity: 'Tham gia một khóa học online' },
+  { activity: 'Xì mũi' },
+  { activity: 'Nhảy một mình' },
+  { activity: 'Học ReactJS' },
+  { activity: 'Chơi  Escape Room' },
+  { activity: 'Đi trượt băng' },
+  { activity: 'Đi bộ ở phố Khựa' },
+  { activity: 'Đi tắm' },
+  { activity: 'Ngồi suy nghĩ' },
+  { activity: 'Tìm hiểu về đạo hồi' },
+  { activity: 'Học ảo thuật' },
+  { activity: 'Uống Mezcal' },
+  { activity: 'Mời người bạn thường xuyên gặp uống cà phê' },
+  { activity: 'Gọi cho mẹ' },
+  { activity: 'Sắp xếp lại giá sách' },
+  { activity: 'Dọn dẹp tủ lạnh' },
+  { activity: 'Dọn dẹp tủ quần áo ' },
   {
     activity:
-      'Leave the house and walk without a destination in mind for 15 minutes and decide where to go on crossroads'
+      'Rời khỏi nhà và đi bộ mà không có điểm đến trong 15 phút và quyết định nơi sẽ đi qua ngã tư'
   },
-  { activity: 'Learn five colours in French' },
-  { activity: 'Put on moisturizer' },
-  { activity: 'Do a plank' },
-  { activity: 'Do 10 squads' },
-  { activity: "Revisit Your New Year's Resolutions" },
-  { activity: 'Make a smoothie' },
-  { activity: 'Grab some boba with friends!' },
-  { activity: 'Sing a Song' },
+  { activity: 'Học năm màu sắc trong tiếng Pháp' },
+  { activity: 'Bôi kem dưỡng ẩm' },
+  { activity: 'Hít đất' },
+  { activity: 'Xem lại các quyết định trong năm mới ' },
+  { activity: 'Làm sinh tố' },
+  { activity: 'Uống trà sữa với bạn bè' },
+  { activity: 'Hát một bài hát' },
   {
-    activity: 'Take a bus till the last stop and then explore that neighborhood'
+    activity: 'Đi xe buýt đến điểm dừng cuối cùng và sau đó khám phá khu phố đó'
   },
-  { activity: 'Go outside and mark your territory' },
-  { activity: 'Clean your room' },
-  { activity: 'Yoga' },
-  { activity: 'Draw something!' },
-  { activity: 'When will you code' },
-  { activity: 'Play Zelda' },
-  { activity: 'Play Chess' },
-  { activity: 'Go for a swim' },
-  { activity: 'Do some writing' },
-  { activity: 'Leave Facebook' },
-  { activity: "Make a plan to surprise a friend with something they'd like" }
+  { activity: 'Đi ra ngoài và đánh dấu lãnh thổ của bạn' },
+  { activity: 'Dọn phòng' },
+  { activity: 'Tập Yoga' },
+  { activity: 'Vẽ một thứ gì đó!' },
+  { activity: 'Code' },
+  { activity: 'Chơi Zelda' },
+  { activity: 'Chơi cờ' },
+  { activity: 'Đi bơi' },
+  { activity: 'Viết thứ gì đó' },
+  { activity: 'Xóa Facebook' },
+  { activity: 'Lên kế hoạch làm điều gì đó bất ngờ với bạn bè' },
+  { activity: 'Drop Database' },
+  { activity: 'Qwerty' }
 ]

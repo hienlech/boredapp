@@ -24,7 +24,7 @@ export default () => {
   const newTime = () => ({ time: format(new Date(), 'HH:mm') })
   const defaultMessages = [
     {
-      user: 'I am bored. Give me shit to do',
+      user: 'Tôi đang chán . Tôi nên làm gì bây giờ ?',
       bot: getRandom().activity,
       ...newTime()
     }
@@ -38,7 +38,7 @@ export default () => {
       setMessages([
         ...messages,
         {
-          user: 'No 👎',
+          user: 'Không 👎',
           bot: getRandom().activity,
           ...newTime()
         }
@@ -52,8 +52,8 @@ export default () => {
     setMessages([
       ...messages,
       {
-        user: 'Yes 👍',
-        bot: 'Go do the Thing 🎉',
+        user: 'Có 👍',
+        bot: 'Làm đi thôi 🎉',
         ...newTime()
       }
     ])
@@ -87,10 +87,10 @@ export default () => {
               >
                 <Button onClick={() => (done ? confetti() : yes())}>
                   {done ? (
-                    'Amazing'
+                    'Hay'
                   ) : (
                     <span role="img" aria-label="Yes.">
-                      Yes 👍
+                      Có 👍
                     </span>
                   )}
                 </Button>
@@ -98,11 +98,11 @@ export default () => {
               {!done ? (
                 <Button onClick={() => no()}>
                   <span role="img" aria-label="No.">
-                    No 👎
+                    Không 👎
                   </span>
                 </Button>
               ) : (
-                <Button onClick={() => restart()}>Restart</Button>
+                <Button onClick={() => restart()}>Bắt đầu lại</Button>
               )}
               {loading ? <Loading /> : null}
             </Chat>
